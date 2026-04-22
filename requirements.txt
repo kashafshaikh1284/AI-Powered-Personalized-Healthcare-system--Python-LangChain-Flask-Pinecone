@@ -9,6 +9,7 @@ langchain-groq
 langchain-pinecone
 pinecone-client
 langchain-text-splitters
+langchain-huggingface
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 sentence-transformers
