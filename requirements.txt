@@ -2,10 +2,13 @@ flask
 gunicorn
 pypdf
 python-dotenv
-sentence-transformers
 langchain
 langchain-community
 langchain-openai
 langchain-groq
 langchain-pinecone
 pinecone-client
+langchain-text-splitters
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentence-transformers
